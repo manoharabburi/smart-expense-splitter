@@ -37,20 +37,6 @@ start-app.bat
 - **Backend (Spring Boot):** http://localhost:8080
 - **API Base URL:** http://localhost:8080/api
 
-## 👥 Pre-configured Users
-
-The application comes with two pre-configured users:
-
-1. **User 1:**
-   - Email: `99220040214@klu.ac.in`
-   - Password: `password123`
-   - Username: `KLU_User`
-
-2. **User 2:**
-   - Email: `harshasrikarthikeyathumuluri@gmail.com`
-   - Password: `Harsha@26`
-   - Username: `Harsha`
-
 ## ✨ Features
 
 ### 🎨 Beautiful UI with Excellent Animations
@@ -135,15 +121,5 @@ npm run dev
 - **Smooth page transitions** with Framer Motion
 - **Mobile-first responsive design**
 - **Custom scrollbars** for better aesthetics
-
-## 📱 Responsive Design
-
-The application is fully responsive and works beautifully on:
-- 📱 Mobile devices
-- 📱 Tablets
-- 💻 Desktop computers
-- 🖥️ Large screens
-
----
 
 **Enjoy splitting expenses with style!** ✨
