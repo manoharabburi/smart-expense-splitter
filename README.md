@@ -166,4 +166,4 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 
 **Enjoy splitting expenses with style!** ✨
 
-**© 2024 Harsha Srikarthikeya Thumuluri. Licensed under MIT License.**
+**© 2025 HarshaSri karthikeya Thumuluri. Licensed under MIT License.**
