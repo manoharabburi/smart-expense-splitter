@@ -37,20 +37,6 @@ start-app.bat
 - **Backend (Spring Boot):** http://localhost:8080
 - **API Base URL:** http://localhost:8080/api
 
-## 👥 Pre-configured Users
-
-The application comes with two pre-configured users:
-
-1. **User 1:**
-   - Email: `99220040214@klu.ac.in`
-   - Password: `password123`
-   - Username: `KLU_User`
-
-2. **User 2:**
-   - Email: `harshasrikarthikeyathumuluri@gmail.com`
-   - Password: `Harsha@26`
-   - Username: `Harsha`
-
 ## ✨ Features
 
 ### 🎨 Beautiful UI with Excellent Animations
@@ -144,6 +130,40 @@ The application is fully responsive and works beautifully on:
 - 💻 Desktop computers
 - 🖥️ Large screens
 
+## 🤝 Contributing
+
+We welcome contributions! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### What this means:
+- ✅ **Commercial use** - You can use this project for commercial purposes
+- ✅ **Modification** - You can modify the code
+- ✅ **Distribution** - You can distribute the code
+- ✅ **Private use** - You can use this project privately
+- ✅ **Patent use** - This license provides an express grant of patent rights from contributors
+
+## 📞 Support
+
+If you encounter any issues or have questions, please open an issue on GitHub.
+
+## 🙏 Acknowledgments
+
+- Built with [React](https://reactjs.org/) and [Spring Boot](https://spring.io/projects/spring-boot)
+- UI components styled with [Tailwind CSS](https://tailwindcss.com/)
+- Icons from [Heroicons](https://heroicons.com/)
+- Animations powered by [Framer Motion](https://www.framer.com/motion/)
+
 ---
 
 **Enjoy splitting expenses with style!** ✨
+
+**© 2024 Harsha Srikarthikeya Thumuluri. Licensed under MIT License.**
